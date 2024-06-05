@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Europska_prvenstva>
+  <G id="1">
+    <Godina>1960</Godina>
+    <Domaćin>Francuska</Domaćin>
+    <Zlato>Sovijetski Savez</Zlato>
+    <Srebro>Jugoslavija</Srebro>
+    <Bronca>Čehoslovačka</Bronca>
+  </G>
+  <G id="2">
+    <Godina>1964</Godina>
+    <Domaćin>Španjolska</Domaćin>
+    <Zlato>Španjolska</Zlato>
+    <Srebro>Sovijetski Savez</Srebro>
+    <Bronca>Mađarska</Bronca>
+  </G>
+  <G id="3">
+    <Godina>1968</Godina>
+    <Domaćin>Italija</Domaćin>
+    <Zlato>Italija</Zlato>
+    <Srebro>Jugoslavija</Srebro>
+    <Bronca>Engleska</Bronca>
+  </G>
+  <G id="4">
+    <Godina>1972</Godina>
+    <Domaćin>Belgija</Domaćin>
+    <Zlato>Zapadna Njemačka</Zlato>
+    <Srebro>Sovijetski Savez</Srebro>
+    <Bronca>Belgija</Bronca>
+  </G>
+  <G id="5">
+    <Godina>1976</Godina>
+    <Domaćin>Jugoslavija</Domaćin>
+    <Zlato>Čehoslovačka</Zlato>
+    <Srebro>Zapadna Njemačka</Srebro>
+    <Bronca>Nizozemska</Bronca>
+  </G>
+  <G id="6">
+    <Godina>1980</Godina>
+    <Domaćin>Italija</Domaćin>
+    <Zlato> Jugoslavija</Zlato>
+    <Srebro>Zapadna Njemačka</Srebro>
+    <Bronca>Čehoslovačka</Bronca>
+  </G>
+  <G id="7">
+    <Godina>1984</Godina>
+    <Domaćin>Francuska</Domaćin>
+    <Zlato>Francuska</Zlato>
+    <Srebro>Španjolska</Srebro>
+    <Bronca>X</Bronca>
+  </G>
+  <G id="8">
+    <Godina>1988</Godina>
+    <Domaćin>Zapadna Njemačka</Domaćin>
+    <Zlato>Nizozemska</Zlato>
+    <Srebro>Sovijetski Savez</Srebro>
+    <Bronca>X</Bronca>
+  </G>
+    <G id="9">
+    <Godina>1992</Godina>
+    <Domaćin>Švedska</Domaćin>
+    <Zlato>Danska</Zlato>
+    <Srebro>Njemačka</Srebro>
+    <Bronca>X</Bronca>
+  </G>
+  <G id="10">
+    <Godina>1996</Godina>
+    <Domaćin>Engleska</Domaćin>
+    <Zlato>Njemačka</Zlato>
+    <Srebro>Češka</Srebro>
+    <Bronca>X</Bronca>
+    </G>
+    <G id="11">
+    <Godina>2000</Godina>
+    <Domaćin>Belgija/Nizozemska</Domaćin>
+    <Zlato>Francuska</Zlato>
+    <Srebro>Italija</Srebro>
+    <Bronca>X</Bronca>
+    </G>
+    <G id="12">
+    <Godina>2004</Godina>
+    <Domaćin>Portugal</Domaćin>
+    <Zlato>Grčka</Zlato>
+    <Srebro>Portugal</Srebro>
+    <Bronca>X</Bronca>
+    </G>
+    <G id="13">
+    <Godina>2008</Godina>
+    <Domaćin>Austrija/Švicarska</Domaćin>
+    <Zlato>Španjolska</Zlato>
+    <Srebro>Njemačka</Srebro>
+    <Bronca>X</Bronca>
+    </G>
+    <G id="14">
+    <Godina>2012</Godina>
+    <Domaćin>Poljska/Ukrajina</Domaćin>
+    <Zlato>Španjolska</Zlato>
+    <Srebro>Italija</Srebro>
+    <Bronca>X</Bronca>
+    </G>
+    <G id="15">
+    <Godina>2016</Godina>
+    <Domaćin>Francuska</Domaćin>
+    <Zlato>Portugal</Zlato>
+    <Srebro>Francuska</Srebro>
+    <Bronca>X</Bronca>
+    </G>
+    <G id="16">
+    <Godina>2020</Godina>
+    <Domaćin>Europa</Domaćin>
+    <Zlato>Italija</Zlato>
+    <Srebro>Engleska</Srebro>
+    <Bronca>X</Bronca>
+    </G>
+<G id="18"><Godina>2024</Godina><Domaćin>Njemačka</Domaćin><Zlato>Hrvatska</Zlato><Srebro>X</Srebro><Bronca>X</Bronca></G><G id="19"><Godina>2028</Godina><Domaćin>Hrvatska</Domaćin><Zlato>Hrvatska</Zlato><Srebro>Engleska</Srebro><Bronca>Njemačka</Bronca></G></Europska_prvenstva>
